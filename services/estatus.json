@@ -1,0 +1,14 @@
+[
+    {
+        "id": "1",
+        "nombreEstatus": "Activa"
+    },
+    {
+        "id": "2",
+        "nombreEstatus": "Cancelada"
+    }
+    {
+        "id": "3",
+        "nombreEstatus": ""
+    }
+]

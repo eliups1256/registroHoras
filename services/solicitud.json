@@ -1,0 +1,18 @@
+[
+    {
+        "id": "1",
+        "idUsuario": 1,
+        "semana": "1",
+        "aprobador" : "2",
+        "FechaAprobacion" : "2024-01-01",
+        "estatus" : 1
+    },
+    {
+        "id": "2",
+        "idUsuario": 1,
+        "semana": "2",
+        "aprobador" : "2",
+        "FechaAprobacion" : null,
+        "estatus" : 1
+    }
+]

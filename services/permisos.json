@@ -1,0 +1,14 @@
+[
+    {
+        "id": "1",
+        "nombrePermiso": "Consulta Solicitudes"
+    },
+    {
+        "id": "2",
+        "nombrePermiso": "Aprobacion Solicitudes"
+    }
+    {
+        "id": "3",
+        "nombrePermiso": "Creacion Solicitud"
+    }
+]

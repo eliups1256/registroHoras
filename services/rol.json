@@ -1,0 +1,12 @@
+[
+    {
+        "id": "1",
+        "nombreRol": "Aprobador",
+        "permisos" : "1,2,3"
+    },
+    {
+        "id": "2",
+        "nombre": "Solicitante",
+        "permisos" : "1,3"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "id": "1",
+        "nombre": "Eliud Carrillo",
+        "tipoRol": 1,
+        "email": "jeliudcarrillo@hotmail.com"
+    },
+    {
+        "id": "2",
+        "nombre": "Azucena Presas",
+        "tipoRol": 1,
+        "email": "azucena@hotmaill.com"
+    }
+]
